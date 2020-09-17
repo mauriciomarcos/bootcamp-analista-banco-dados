@@ -1,1 +1,1 @@
-# Bootcampo IGTI - Analista de Bando de Dados
+# Bootcampo IGTI - Analista de Banco de Dados
